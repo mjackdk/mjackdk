@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mjackdk
 - 👀 I’m interested in Python, Arduino, Raspberry Pi and STEM teaching
-- 🌱 I’m currently studying BSc in Engineering (Electronics) at [SDU](https://mitsdu.dk/en/mit_studie/bachelor/electronics_bachelor)
+- 🌱 I’m currently studying [BSc in Engineering (Electronics)](https://mitsdu.dk/en/mit_studie/bachelor/electronics_bachelor) at SDU
 
 <!---
 - 💞️ I’m looking to collaborate on ...
